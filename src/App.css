@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.generateButton{
+  width: 200px;
+  height: 40px;
+  margin: 30px 0px;
+  background: cadetblue;
+  font-size: larger;
+  font-style: oblique;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.buttonFirst{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.textclass{
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+
+}
